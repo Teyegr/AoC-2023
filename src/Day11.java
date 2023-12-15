@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 import util.InputProvider;
 
@@ -13,6 +10,7 @@ public class Day11 {
 	static String[] lines = InputProvider.getInputLines(11, test);
 
 	public static void main(String[] args) {
+		part1();
 		part2();
 	}
 	
