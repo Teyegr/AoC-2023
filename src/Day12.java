@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.List;
 
 import util.InputProvider;
-import util.Util;
 
 public class Day12 {
 	
